@@ -162,7 +162,7 @@ i:hover {
 
 /* ---------Registration page------------- */
 .wrapper {
-    background-image: url(/images/gallery/regi.jpg);
+    background-image: url(./images/gallery/regi.jpg);
 }
 
 .wrapper-alt {
@@ -305,7 +305,7 @@ i:hover {
 } */
 /* ------checkout page------- */
 #checkout {
-    background-image: url(/images/gallery/cart.jpg);
+    background-image: url(./images/gallery/cart.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100vh;
